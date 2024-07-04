@@ -1,2 +1,2 @@
 # Emgeto_BI
-Projekt BI
+Projekt BI v rámci ENGETO akademie
