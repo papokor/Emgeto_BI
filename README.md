@@ -1,4 +1,4 @@
-# Emgeto_Power_BI
+# Engeto_Power_BI
 Projekt Power BI v rámci ENGETO akademie
 
 
